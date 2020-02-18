@@ -17,26 +17,26 @@ description:
 
 ## C 语言学习资料下载
 
-[C语言上机课课件.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/C语言上机课课件.zip)
+[C语言上机课课件.zip](https://gitee.com/nksckx/cyuyan/raw/master/C语言上机课课件.zip)
 
-[C语言课件.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/C语言课件.zip)
+[C语言课件.zip](https://gitee.com/nksckx/cyuyan/raw/master/C语言课件.zip)
 
-[C语言题目.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/C语言题目.zip)
+[C语言题目.zip](https://gitee.com/nksckx/cyuyan/raw/master/C语言题目.zip)
 
-[C陷阱与缺陷.pdf](https://raw.githubusercontent.com/nksckx/cyuyan/master/C陷阱与缺陷.pdf)
+[C陷阱与缺陷.pdf](https://gitee.com/nksckx/cyuyan/raw/master/C陷阱与缺陷.pdf)
 
-[《C程序设计语言》第2版_非扫描版.pdf](https://raw.githubusercontent.com/nksckx/cyuyan/master/《C程序设计语言》第2版_非扫描版.pdf)
+[《C程序设计语言》第2版_非扫描版.pdf](https://gitee.com/nksckx/cyuyan/raw/master/《C程序设计语言》第2版_非扫描版.pdf)
 
 
 ## C++ 语言学习资料下载
 
-[C++语言上机课课件.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/C++语言上机课课件.zip)
+[C++语言上机课课件.zip](https://gitee.com/nksckx/cyuyan/raw/master/C++语言上机课课件.zip)
 
-[C++语言课件.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/C++语言课件.zip)
+[C++语言课件.zip](https://gitee.com/nksckx/cyuyan/raw/master/C++语言课件.zip)
 
-[Thinking in C++.pdf](https://raw.githubusercontent.com/nksckx/cyuyan/master/Thinking%20in%20C++.pdf)
+[Thinking in C++.pdf](https://gitee.com/nksckx/cyuyan/raw/master/Thinking%20in%20C++.pdf)
 
-[往年考题.zip](https://raw.githubusercontent.com/nksckx/cyuyan/master/往年考题.zip)
+[往年考题.zip](https://gitee.com/nksckx/cyuyan/raw/master/往年考题.zip)
 
 
 ## 意见

@@ -11,49 +11,49 @@ description:
 
 ## Java语言课件
 
-[Generics.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Generics.pptx)
+[Generics.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Generics.pptx)
 
-[io.rar](https://raw.githubusercontent.com/nksckx/javayuyan/master/io.rar)
+[io.rar](https://gitee.com/nksckx/javayuyan/raw/master/io.rar)
 
-[lab2.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/lab2.pptx)
+[lab2.pptx](https://gitee.com/nksckx/javayuyan/raw/master/lab2.pptx)
 
-[lab4.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/lab4.pptx)
+[lab4.pptx](https://gitee.com/nksckx/javayuyan/raw/master/lab4.pptx)
 
-[lab5.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/lab5.pptx)
+[lab5.pptx](https://gitee.com/nksckx/javayuyan/raw/master/lab5.pptx)
 
-[lab7.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/lab7.pptx)
+[lab7.pptx](https://gitee.com/nksckx/javayuyan/raw/master/lab7.pptx)
 
-[lab9-forkjoin.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/lab9-forkjoin.pptx)
+[lab9-forkjoin.pptx](https://gitee.com/nksckx/javayuyan/raw/master/lab9-forkjoin.pptx)
 
-[Lesson_1.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_1.pptx)
+[Lesson_1.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_1.pptx)
 
-[Lesson_12.ppt](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_12.ppt)
+[Lesson_12.ppt](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_12.ppt)
 
-[Lesson_13.ppt](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_13.ppt)
+[Lesson_13.ppt](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_13.ppt)
 
-[Lesson_2.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_2.pptx)
+[Lesson_2.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_2.pptx)
 
-[Lesson_2_2.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_2_2.pptx)
+[Lesson_2_2.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_2_2.pptx)
 
-[Lesson_3.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_3.pptx)
+[Lesson_3.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_3.pptx)
 
-[Lesson_4.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_4.pptx)
+[Lesson_4.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_4.pptx)
 
-[Lesson_5.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_5.pptx)
+[Lesson_5.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_5.pptx)
 
-[Lesson_5_2.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_5_2.pptx)
+[Lesson_5_2.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_5_2.pptx)
 
-[Lesson_6.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_6.pptx)
+[Lesson_6.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_6.pptx)
 
-[Lesson_7.pptx](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_7.pptx)
+[Lesson_7.pptx](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_7.pptx)
 
-[Lesson_8.ppt](https://raw.githubusercontent.com/nksckx/javayuyan/master/Lesson_8.ppt)
+[Lesson_8.ppt](https://gitee.com/nksckx/javayuyan/raw/master/Lesson_8.ppt)
 
-[src.rar](https://raw.githubusercontent.com/nksckx/javayuyan/master/src.rar)
+[src.rar](https://gitee.com/nksckx/javayuyan/raw/master/src.rar)
 
-[对象序列化文件解析.docx](https://raw.githubusercontent.com/nksckx/javayuyan/master/对象序列化文件解析.docx)
+[对象序列化文件解析.docx](https://gitee.com/nksckx/javayuyan/raw/master/对象序列化文件解析.docx)
 
-[线程大作业.zip](https://raw.githubusercontent.com/nksckx/javayuyan/master/线程大作业.zip)
+[线程大作业.zip](https://gitee.com/nksckx/javayuyan/raw/master/线程大作业.zip)
 
 
 ## 意见
