@@ -55,6 +55,11 @@ description:
 
 [线程大作业.zip](https://gitee.com/nksckx/javayuyan/raw/master/线程大作业.zip)
 
+## 下载Q&A
+
+### 如果您在下载资源过程中出现无法下载、无法建立连接、下载速度过慢等问题，可以尝试本网站的国内镜像版
+
+**国内镜像地址**：nksckx.gitee.io
 
 ## 意见
 
